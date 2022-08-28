@@ -1,18 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
-.quote{
-  font-size: 45px;
-  font-family: 'Times New Roman', Times, serif;
-  position: absolute;
-  left: 12%;
-  top: 45%;
-color: #398914
-}
-@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;500;600;700&display=swap');
-*{
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+body{
   margin: 0;
   padding: 0;
   font-family: 'Edu SA Beginner';
   font-style: bold;
+}
+.quote{
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  left: 23%;
+  top: 35%;
+color: #398914
 }
 .tonklaimage{
   position: absolute;
@@ -25,21 +24,64 @@ color: #398914
   left: 15%;
   top: 26%;
   color: #7882A4;
-
 }
 .Skill{
   font-size: 60px;
   position: absolute;
   top: 760px;
-  right: 30%;
+  right: 45%;
 }
 .Skills{
   font-size: 40px;
   position: absolute;
   margin-top: 50%;
   right: 40%;
-
-
-
+}
+.mec{
+  font-size: 25px;
+  position: absolute;
+  top: 900px;
+  left: 8%;
+}
+.foot{
+  font-size: 25px;
+  position: absolute;
+  top: 1000px;
+  left: 8%;
+}
+.cre{
+  font-size: 25px;
+  position: absolute;
+  top: 1100px;
+  left: 8%;
+}
+.tra{
+  font-size: 25px;
+  position: absolute;
+  top: 1200px;
+  left: 8%;
+}
+.sur{
+  font-size: 25px;
+  position: absolute;
+  top: 1300px;
+  left: 8%;
+}
+.container {
+  width: 50%; /* Full width */
+  background-color: #ddd; /* Grey background */
 }
 
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 0px; /* Add top padding */
+  padding-bottom: 0px; /* Add bottom padding */
+  padding-right: 20px;
+  color: white; /* White text color */
+  border-radius: 15px;
+}
+.mecs {width: 35%; background-color: #2e3b64; position: absolute; bottom: 3%; left: 20%;}
+.foots {width: 40%; background-color: #2e3b64; position: absolute; top: 4%; left: 20%;}
+.cres {width: 25%; background-color: #2e3b64; position: absolute; top: 14%; left: 20%;}
+.tras {width: 25%; background-color: #2e3b64; position: absolute; top: 25%; left: 20%;}
+.surs {width: 30%; background-color: #2e3b64; position: absolute; top: 35%; left: 20%;}
