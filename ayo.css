@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+.quote{
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  left: 12%;
+  top: 45%;
+color: #398914
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Edu SA Beginner';
+  font-style: bold;
+}
+.tonklaimage{
+  position: absolute;
+  left: 46%;
+  top: 22%;
+} 
+.fullname{
+  font-size: 50px;
+  position: absolute;
+  left: 15%;
+  top: 26%;
+  color: #7882A4;
+
+}
+.Skill{
+  font-size: 60px;
+  position: absolute;
+  top: 760px;
+  right: 30%;
+}
+.Skills{
+  font-size: 40px;
+  position: absolute;
+  margin-top: 50%;
+  right: 40%;
+
+
+
+}
+
